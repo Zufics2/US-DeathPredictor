@@ -49,5 +49,5 @@
 Убедись, что у тебя установлены все необходимые библиотеки:
 ```bash
 pip install torch pandas numpy scikit-learn joblib fastapi uvicorn
-
+```
 <img width="943" height="716" alt="image" src="https://github.com/user-attachments/assets/de2feffa-d0dd-4b89-8cf9-da7b111e1800" />
