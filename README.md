@@ -46,7 +46,6 @@
 ## Как запустить проект
 
 ### 1. Установка зависимостей
-Убедись, что у тебя установлены все необходимые библиотеки:
 ```bash
 pip install torch pandas numpy scikit-learn joblib fastapi uvicorn
 ```
